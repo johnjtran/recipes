@@ -4,11 +4,11 @@ This repository is a loose collection `Culinary Nerdom`.  It's not intended to r
 
 Bon Appetit!
 
-## Vegetarian
+## vegetarian
 
 * [Roast Pepper Mozzarella](veggie/peppers-mozzarella)
 
-## Indian
+## indian
 
 * [Murgh Makhani (Butter Chicken)](indian/butter-chicken)
 
