@@ -6,7 +6,7 @@ Bon Appetit!
 
 ## vegetarian
 
-* [Roast Pepper Mozzarella](veggie/peppers-mozzarella)
+* [Roast Peppers Mozzarella](veggie/peppers-mozzarella)
 
 ## indian
 
