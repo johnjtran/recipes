@@ -11,11 +11,11 @@
 * Salt & Pepper
 * Basil
 * Vinaigrette dressing
+* Tomatoe
 
-## Direction
+## Directions
 
 Drizzle cibatta with olive oil, sprinkle bread with salt and peppers. 
 Toast on a frying pan for no more than 2 minutes.
-Add mozzarella, roasted peppers, basil, tomatoes.
-
+Add mozzarella, roasted peppers, basil, tomato slices.
 
