@@ -10,5 +10,5 @@ Bon Appetit!
 
 ## Indian
 
-* [Murgh Makhani (Butter Chicken)](indian/indian/butter-chicken)
+* [Murgh Makhani (Butter Chicken)](indian/butter-chicken)
 
