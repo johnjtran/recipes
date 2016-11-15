@@ -11,7 +11,7 @@
 * Salt & Pepper
 * Basil
 * Vinaigrette dressing
-* Tomatoe
+* Tomatoes
 
 ## Directions
 
