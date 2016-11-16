@@ -1,5 +1,7 @@
 # Neapolitan Pizza
 
+![pizza](pizza.jpg)
+
 ## Ingredients
 
 * 500 grams (4 cups) of flour
@@ -8,8 +10,6 @@
 * 325 mil (1.37 cups) warm water
 * Fresh basil
 * Fresh mozzarella
-
-![pizza](pizza.jpg)
 
 ## Directions
 
