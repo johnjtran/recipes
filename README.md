@@ -1,14 +1,18 @@
 # recipes
 
-This repository is a loose collection `Culinary Nerdom`.  It's not intended to replace any magical recipe book out there.  It's simply a collection of my recipes and notes.  The cooking philosophy is simple, fast and easy to make.  I use pre-mixed spices whenever possible and there is no assumption on the skill level of the cook.
+This repository is a loose collection `Culinary Nerdom`.  It's not intended to replace any magical recipe book out there.  It's simply a collection of recipes and notes.  The cooking philosophy is simple:
+
+* Fast and easy to make
+* Use pre-mixed spices whenever possible
+* Make no assumptions on the skill level of the cook
 
 Bon Appetit!
 
 ## vegetarian
 
-* [Roast Peppers Mozzarella](veggie/peppers-mozzarella)
+* [Roasted Peppers Mozzarella Sandwich](veggie/peppers-mozzarella)
+* [Neopolitan Pizza](veggie/neapolitan-pizza)
 
 ## indian
 
-* [Murgh Makhani (Butter Chicken)](indian/butter-chicken)
-
+* [Murgh Makhani](indian/butter-chicken) (Butter Chicken)

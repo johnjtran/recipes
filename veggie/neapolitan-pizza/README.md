@@ -13,10 +13,12 @@
 
 ## Directions
 
-Mix yeast in warm water and stir slowly; then mixture to flour salt.   Put in a dough machine and knead for 10 minutes.
+* Mix yeast in warm water and stir slowly; then mixture to flour salt
+* Knead flour mixture for 10 minutes
+* Stretch dough and top with tomatoes and mozzarella
+* Bake in oven for 5 to 7 minutes at highest temperature; rotate pizza a few times to get heat evenly distributed
+* Add basil after pizza is ready
 
-Stretch dough and top with tomatoes and mozzarella.
+Having a pizza steel plate or pizza stone will help with the heat retention.  
 
-Bake in oven for 5 to 7 minutes at highest temperature.  Having a pizza steel plate or pizza stone will help with the heat retention.  Rotate pizza a few times to get heat evenly distributed.
-
-Add basil after pizza is done and ready.
+Some people cook pizza dough with basil.  The method is also known as basil cremation -- we don't recommend it
